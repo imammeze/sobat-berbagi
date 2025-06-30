@@ -1,0 +1,18 @@
+{
+    "name": "Sobat Berbagi",
+    "short_name": "Sobat Berbagi",
+    "start_url": "/index.php",
+    "background_color": "#fff",
+    "description": "Sobat Berbagi by Lazismu Banyumas",
+    "display": "standalone",
+    "theme_color": "#fff",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
